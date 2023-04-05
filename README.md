@@ -28,7 +28,7 @@ Spectral Clustering: Implementing spectral clustering for image segmentation and
 
 Active Learning Using Support Vector Machines: Exploring active learning strategies with SVMs to minimize the number of labeled examples required for model training.
 
-Each project directory contains a detailed README file that explains the project's objective, dataset, techniques used, and results.
+Each project has a pdf with exact topics covered and coded. 
 
 ## Dependencies
 The projects in this repository mainly rely on the following libraries and frameworks:
