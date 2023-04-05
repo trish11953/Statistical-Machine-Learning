@@ -6,7 +6,7 @@ Welcome to my Machine Learning Repository! This repository is a collection of va
 Machine learning is a subfield of artificial intelligence that focuses on enabling computers to learn from data and improve their performance on a specific task without being explicitly programmed. This repository contains projects that demonstrate my skills in various machine learning techniques, such as supervised learning, unsupervised learning, and semi-supervised learning, using a variety of real-world datasets.
 
 ## Projects
-Here's a list of some of the projects included in this repository:
+Here's a list of some topics included in this repository:
 
 KNN on Vertebral Column Data Set: Implementing the k-Nearest Neighbors (KNN) algorithm for classification of vertebral column conditions using the Vertebral Column Data Set.
 
